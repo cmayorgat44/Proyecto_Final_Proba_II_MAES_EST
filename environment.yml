@@ -1,0 +1,17 @@
+name: PFP2
+channels:
+  - defaults
+  - conda-forge
+dependencies:
+  - python=3.11
+  - numpy
+  - scipy
+  - pandas
+  - jupyter
+  - matplotlib
+  - scikit-learn
+  - copulas
+  - plotly
+  - seaborn
+  - statsmodels
+  
